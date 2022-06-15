@@ -14,3 +14,9 @@
 
 - [x] https://github.com/ziglang/zig
 - [x] https://ziglang.org/
+
+
+
+> ref: 
+
+- https://youtu.be/Gv2I7qTux7g
